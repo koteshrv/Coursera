@@ -1,0 +1,21 @@
+Identify and analyze a device that is an IoT device now, but in the past was a non-IoT device. Describe and list the features of the device. Compare the functions of the device in the past to the functions of the device now.
+
+Television(SmartTV)
+Before television is used to view channel content we subscribed, but now including the channel content additionally we can access web content like youtube, prime video, Netflix and lot more and listen to music online and a lot more using the television.
+
+Compare the functions of the device in the past to the functions of the device now.
+
+Before Television is used to view only limited channels available for the subscription of the cable connection or dish connection.
+Now we can surf movies, music online, play games, make video calls, screen mirror etc using your smartTV
+
+For your chosen IoT device, list any improvements or any diminishments if they exist, over the non-IOT device. Describe any limitations that are present in the new IoT version of the device.
+
+Some of the improvements that can be made for smartTV:
+1) Better user interface and a better controller. (Personally I have an amazon firestick. The remote controller is difficult to use when we want to surf the web or to type some data)
+
+Describe any privacy issues with the IoT device that never existed in the original version of the device. Compare the price of the original device to the price of the new IoT version of the device. When performing a price comparison, attempt to normalize for the changing value of currency over time by using an online inflation calculator.
+
+Privacy Issues:
+Hackers can get access to your camera and microphone which provokes in losing one's privacy.
+In 2000, The cost of a TV is $200 (CRT TV)
+In 2020, The cost of a 55" SmartTV is $800 (Price varies with the brand)
