@@ -1,0 +1,9 @@
+sql commands
+
+INSERT INTO Users(name, email) VALUES('Koti','koti.gmail.com')
+DELETE FROM Users WHERE email = 'koteshkoti.in'
+UPDATE Users SET name='kotesh' WHERE email='kotesh@gmail.com'
+SELECT * FROM Users
+SELECT * FROM Users WHERE email='koteshkoti.in'
+SELECT * FROM Users ORDER BY email
+SELECT * FROM Users ORDER BY name
