@@ -1,6 +1,6 @@
 # An Introduction to Programming the Internet of Things Specialization  
 
-Coursera [An Introduction to Programming the Internet of Things](https://www.coursera.org/specializations/iot) is offered by University of California, Irvine.  
+[An Introduction to Programming the Internet of Things](https://www.coursera.org/specializations/iot) offered by University of California, Irvine.  
 
 # Overview
 
